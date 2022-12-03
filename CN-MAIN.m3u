@@ -34,8 +34,8 @@ https://cctvwbcdcnc.v.wscdns.com/cctvwbcd/cdrmcctv15_1/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
